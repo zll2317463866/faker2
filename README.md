@@ -35,6 +35,25 @@ Faker维护仓库，收集全网目前能正常使用的脚本。
 * 29、新版财富岛（需要安装依赖）（cron已自动设置）
 * 30、新版财富岛热气球（cron已自动设置）
 * 31、宠汪汪偷好友积分助力
+* 32、特物Z|万物皆可国创
+* 33、京东到家果园水车
+* 34、京东到家鲜豆任务
+* 35、京东到家鲜豆庄园
+* 36、京东到家庄园领水滴
+* 37、粉丝互动
+* 38、京享值PK
+* 39、燃动夏季下注、百元守护
+* 40、京喜工厂，京喜工厂内部团
+* 41、愤怒的现金（默认助力前9账号）
+* 42、泡泡大战
+* 43、柠檬惊喜工厂抢茅台（需要设置变量）
+* 44、京东零食街
+* 45、柠檬砍价系列（需设置邀请码变量）
+* 46、发财大赢家 翻翻乐
+* 47、发财大赢家获取邀请码
+* 48、发财大赢家助力
+* 49、柠檬一次性开卡
+
 
 
 【Faker集合仓库】
@@ -63,6 +82,12 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 * 防走丢:https://t.me/jdscrip
 
+
+维护收集不易，各位看官高兴可打赏下~
+
+![image](https://user-images.githubusercontent.com/15306294/125604796-955a078a-0e28-4900-9a1c-6fabdc8feb7d.png)
+
+
 ## Special statement:
 
 * Any unlocking and decryption analysis scripts involved in the Script project released by this warehouse are only used for testing, learning and research, and are forbidden to be used for commercial purposes. Their legality, accuracy, completeness and effectiveness cannot be guaranteed. Please make your own judgment based on the situation. .
@@ -87,13 +112,12 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 
 * [@NobyDa](https://github.com/NobyDa)
-
 * [@chavyleung](https://github.com/chavyleung)
-
 * [@liuxiaoyucc](https://github.com/liuxiaoyucc)
-
 * [@Zero-S1](https://github.com/Zero-S1)
-
 * [@uniqueque](https://github.com/uniqueque)
-
 * [@nzw9314](https://github.com/nzw9314)
+* [@Andy Woo](https://t.me/update_help_group)「青龙2.8互助研究院支持」
+* [@Oreo](https://github.com/Oreomeow) 「青龙2.8一键配置」
+
+# 欢迎Pull Request！
